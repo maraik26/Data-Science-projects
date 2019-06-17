@@ -1,1 +1,1 @@
-My Data science/Big data projects written during my studies at university and internships
+My Data science/Big data mostly ML (Machine learning) projects written during my studies at university and internships
