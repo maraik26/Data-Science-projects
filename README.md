@@ -1,1 +1,1 @@
-My Data science/Big data mostly ML (Machine learning) projects written during my studies at university and internships
+My Data science/Big data mostly ML (Machine learning) projects written during my studies at university and internships. Projects are written in Python and PySpark using different popular libraries such as: pandas, Scikit, TensorFlow, Caffe, Pytorch and etc
